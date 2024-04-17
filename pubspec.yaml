@@ -1,7 +1,7 @@
 name: youtube_appbar_view
-description: "Description here"
+description: "Youtube AppBar View"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneview-songdo/youtube_appbar_view
 
 version: 1.0.0+1
 
